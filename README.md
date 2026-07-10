@@ -79,7 +79,7 @@ This project is licensed under the **MIT License**.
 
 ## 📞 Contact & Support
 - **GitHub Issues:** [Report a Bug](https://github.com/krishaga/devpay-connect/issues)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Twitter:** [@Genius](https://twitter.com/)
 - **Email:** akkirat@gmail.com
 
 🚀 *Built with ❤️ by the DevPay Connect team!*
