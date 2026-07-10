@@ -1,6 +1,10 @@
 # DevPay Connect
 
-![DevPay Connect](https://www.photo-pick.com/online/api/v1/albums/d9001ac2-d1f8-416e-9672-79b63df5e9d6.jpg)
+<img
+  src="https://www.photo-pick.com/online/api/v1/albums/d391eca2-680d-442d-9f92-db622844027e.jpg"
+  alt="DevPay Connect"
+  width="150"
+/>
 
 [![Demo Video](https://img.shields.io/badge/Demo-Video-blue)](https://youtu.be/zPfiv-anGV0) [![GitHub](https://img.shields.io/github/stars/aafaque2/devpay-connect?style=social)](https://github.com/krishaga/devpay-connect)
 
