@@ -1,8 +1,8 @@
 # DevPay Connect
 
-![DevPay Connect](https://your-project-banner-image-url.com)
+![DevPay Connect](https://www.photo-pick.com/online/api/v1/albums/d9001ac2-d1f8-416e-9672-79b63df5e9d6.jpg)
 
-[![Demo Video](https://img.shields.io/badge/Demo-Video-blue)](https://youtu.be/zPfiv-anGV0) [![GitHub](https://img.shields.io/github/stars/krishaga/devpay-connect?style=social)](https://github.com/krishaga/devpay-connect)
+[![Demo Video](https://img.shields.io/badge/Demo-Video-blue)](https://youtu.be/zPfiv-anGV0) [![GitHub](https://img.shields.io/github/stars/aafaque2/devpay-connect?style=social)](https://github.com/krishaga/devpay-connect)
 
 ## 🚀 Overview
 DevPay Connect is a decentralized platform that connects developers with customers for **instant video calls** and **crypto payments**. It enables developers to set hourly rates, accept payments via **MetaMask**, and ensure secure transactions. Payments are held in escrow until the call ends, after which the client finalizes the payment.
